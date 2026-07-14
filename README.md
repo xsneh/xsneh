@@ -10,7 +10,7 @@
 
 <div align="center">
   <a href="https://xsneh.com"><img src="https://img.shields.io/badge/Website-xsneh.com-1c1e26?style=for-the-badge&logo=googlechrome&logoColor=white&color=000000" alt="Website" /></a>
-  <a href="https://xsneh.t.me"><img src="https://img.shields.io/badge/Telegram-Contact_Me-1c1e26?style=for-the-badge&logo=telegram&logoColor=2CA5E0&color=000000" alt="Telegram" /></a>
+  <a href="https://telegram.dog/xsneh"><img src="https://img.shields.io/badge/Telegram-Contact_Me-1c1e26?style=for-the-badge&logo=telegram&logoColor=2CA5E0&color=000000" alt="Telegram" /></a>
 </div>
 
 <br />
